@@ -20,6 +20,10 @@
     -webkit-tap-highlight-color: transparent;
   }
 
+  #typ {
+    color: orange;
+  }
+
   body {
     background: #fff;
     font-family: helvetica neue, Helvetica, Arial, sans-serif;
